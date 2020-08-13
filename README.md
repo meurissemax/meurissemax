@@ -1,4 +1,4 @@
-<h3>Hey, I'm Maxime 👋</h3>
+<h2>Hey, I'm Maxime 👋</h2>
 
 <p>
 	<a href="https://znkvzr.com/">
@@ -13,6 +13,7 @@
 </p>
 
 <br>
+<br>
 
 <p>
 	I am <b>Maxime Meurisse</b>. Passionate about programming, I am currently pursuing studies in <b>Computer Engineering</b> (specialization in <b>intelligent systems</b>) at the University of Liège.
@@ -21,6 +22,8 @@
 <p>
 	In my free time, I am interested in <b>new technologies</b> and discover <b>new languages and frameworks</b> : website creation, mobile application design, use of Unix systems, recent machine learning techniques, computer vision, etc.
 </p>
+
+<br>
 
 <p>
 	<a href="https://github.com/meurissemax"><img width="51%" src="https://github-readme-stats.vercel.app/api?username=meurissemax&count_private=true&show_icons=true&hide_title=true" alt="GitHub Stats" align="left"></a>
