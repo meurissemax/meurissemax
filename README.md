@@ -20,7 +20,7 @@
 </p>
 
 <p>
-	In my free time, I am interested in <b>new technologies</b> and discover <b>new languages and frameworks</b> : website creation, mobile application design, use of Unix systems, recent machine learning techniques, computer vision, etc.
+	In my free time, I am interested in <b>new technologies</b> and discover <b>new languages, frameworks and subjects</b> : website creation, mobile application design, use of Unix systems, recent machine and deep learning techniques, computer security, etc.
 </p>
 
 <br>
