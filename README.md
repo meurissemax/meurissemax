@@ -16,11 +16,11 @@
 <br>
 
 <p>
-	I am <b>Maxime Meurisse</b>. Passionate about programming, I am currently pursuing studies in <b>Computer Engineering</b> (specialization in <b>intelligent systems</b>) at the University of Liège.
+	I am <b>Maxime Meurisse</b>. Passionate about programming, I am currently pursuing studies in <b>Computer Engineering</b> (specialization in <b>Intelligent Systems</b>) at the University of Liège.
 </p>
 
 <p>
-	In my free time, I am interested in <b>new technologies</b> and discover <b>new languages, frameworks and subjects</b> : website creation, mobile application design, use of Unix systems, recent machine and deep learning techniques, computer security, etc.
+	In my free time, I am interested in <b>new technologies</b> and discover <b>new languages</b>, <b>frameworks</b> and <b>subjects</b> : website creation, mobile application design, use of Unix systems, recent machine and deep learning techniques, computer security, etc.
 </p>
 
 <br>
