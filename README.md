@@ -1,9 +1,6 @@
 <h2>Hey, I'm Maxime 👋</h2>
 
 <p>
-	<a href="https://znkvzr.com/">
-		<img align="left" width="22px" src="https://znkvzr.com/resources/images/svg/favicon.svg">
-	</a>
 	<a href="https://www.linkedin.com/in/meurissemaxime/">
 		<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 	</a>
