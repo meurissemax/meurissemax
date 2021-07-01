@@ -13,7 +13,7 @@
 <br>
 
 <p>
-	I am <b>Maxime Meurisse</b>. Passionate about programming, I am currently pursuing studies in <b>Computer Engineering</b> (specialization in <b>Intelligent Systems</b>) at the University of Liège.
+	I am <b>Maxime Meurisse</b>. Passionate about programming for a long time, I am now Software Engineer.
 </p>
 
 <p>
