@@ -2,10 +2,10 @@
 
 <p>
 	<a href="https://www.linkedin.com/in/meurissemaxime/">
-		<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+		<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<a href="mailto:max.meurisse@outlook.com">
-		<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg">
+		<img align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 	</a>
 </p>
 
@@ -13,11 +13,11 @@
 <br>
 
 <p>
-	I am <b>Maxime Meurisse</b>. Passionate about programming for a long time, I am now Software Engineer.
+	I graduated in <b>Computer Science and Engineering</b> (with a focus on <b>Intelligent Systems</b>) at the University of Liège and now work as a <b>Software Engineer</b>.
 </p>
 
 <p>
-	In my free time, I am interested in <b>new technologies</b> and discover <b>new languages</b>, <b>frameworks</b> and <b>subjects</b> : website creation, mobile application design, use of Unix systems, recent machine and deep learning techniques, computer security, etc.
+	In my free time, I am interested in <b>new technologies</b> and discover <b>new languages</b>, <b>frameworks</b> and <b>subjects</b>: website creation, mobile application design, use of Unix systems, recent Machine and Deep Learning techniques, computer security, etc.
 </p>
 
 <br>
